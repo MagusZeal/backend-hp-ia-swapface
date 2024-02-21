@@ -1,0 +1,11 @@
+.editorconfig
+.env
+.git
+.gitignore
+*.zip
+/.vscode/*
+*Dockerfile*
+*docker-compose*
+node_modules
+npm-debug.log
+log
